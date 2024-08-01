@@ -30,4 +30,7 @@ brew install tesseract poppler
 ```
 
 ## Next Steps
+```bash
+pip install -r requirements.txt
+```
 - Check out the [Table_Extraction.ipynb](./Table_Extraction.ipynb) file and run each cell carefully ONE BY ONE.
